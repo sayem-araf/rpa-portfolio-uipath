@@ -1,0 +1,13 @@
+# UiPath generated files
+.local/
+.screenshots/
+.objects/
+.settings/
+.project/
+.tmh/
+*.nuget.props
+nuget.cache
+*.dll
+
+# OS / editor
+.DS_Store
