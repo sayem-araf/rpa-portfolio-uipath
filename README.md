@@ -1,6 +1,6 @@
 # RPA Portfolio
 
-Small UiPath automations covering common back-office tasks: moving spreadsheet data and entering it into web forms.
+UiPath automations covering common back-office tasks: moving spreadsheet data and entering it into web forms.
 
 ▶️ **Demo video:** [UiPath RPA Automation for Spreadsheet Form Fill-up](https://youtu.be/he8Nh2y3_TM)
 
